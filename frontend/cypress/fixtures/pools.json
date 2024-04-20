@@ -4,6 +4,10 @@
             "name": "Luxor",
             "link": "https://mining.luxor.tech"
         },
+       "SpiderPool": {
+            "name": "Spider Pool",
+            "link": "https://spiderpool.com"
+        },
         "/1THash&58COIN/": {
             "name": "1THash",
             "link": "https://www.1thash.top"
@@ -13,10 +17,6 @@
             "link": "https://www.1thash.top"
         },
         "/BTC.COM/" : {
-            "name" : "BTC.com",
-            "link" : "https://pool.btc.com"
-        },
-        "/BTC.com/" : {
             "name" : "BTC.com",
             "link" : "https://pool.btc.com"
         },
@@ -562,6 +562,10 @@
             "name": "Luxor",
             "link": "https://mining.luxor.tech"
         },
+        "1BM1sAcrfV6d4zPKytzziu4McLQDsFC2Qc": {
+            "name" : "Spider Pool",
+            "link" : "https://spiderpool.com"
+         },
         "1ArTPjj6pV3aNRhLPjJVPYoxB98VLBzUmb": {
             "name" : "KuCoinPool",
             "link" : "https://www.kucoin.com/mining-pool/"
